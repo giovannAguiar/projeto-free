@@ -1,0 +1,23 @@
+main{
+    align-content: center;
+    text-align: center;
+    background-color: pink;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px white;
+    height: 100%;
+    width: 90%;
+    padding: 6%;
+}
+img{
+    width: 40%;
+}
+
+p{
+    padding: 5%;
+    color: palevioletred
+}
+h1{
+    padding: 5%;
+    color: white 
+}
